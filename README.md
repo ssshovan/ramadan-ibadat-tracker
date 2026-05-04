@@ -73,7 +73,7 @@ A complete Laravel web application for tracking daily ibadat (worship) during Ra
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/ramadan-tracker.git
+git clone https://github.com/ssshovan/ramadan-ibadat-tracker
 cd ramadan-tracker
 
 # 2. Install PHP dependencies
@@ -127,10 +127,7 @@ ramadan-tracker/
 │   └── views/                # Blade templates
 ├── routes/
 │   └── web.php               # All routes
-└── docs/
-    ├── 01-SETUP-INSTRUCTIONS.md
-    ├── 02-SYSTEM-DESIGN.md
-    └── 03-GITHUB-COMMIT-PLAN.md
+
 ```
 
 ---
@@ -331,8 +328,8 @@ This project is open-source for educational purposes.
 ## 📧 Contact
 
 For questions or support:
-- Email: your.email@example.com
-- GitHub Issues: [Create Issue](https://github.com/yourusername/ramadan-tracker/issues)
+- Email: shadmanshovan02@gmail.com
+
 
 ---
 
