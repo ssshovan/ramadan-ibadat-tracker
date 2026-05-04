@@ -31,7 +31,7 @@ A complete Laravel web application for tracking daily ibadat (worship) during Ra
 - Parent and Child roles
 - View family members' progress
 - Parent dashboard for monitoring
-- Family leaderboard
+
 
 ### 📊 Reports & Analytics
 - Daily summary
@@ -165,13 +165,13 @@ users ──N:M──► families (via family_members)
 ---
 
 ## 📸 Screenshots
-
+![Dashboard Screenshot](screenshots/dashboard.png)
 ### Dashboard
 - Daily progress overview
 - Streak summary
 - Weekly chart
 - Family progress
-
+![Daily tracking Screenshot](screenshots/daily_tracking.png)
 ### Daily Tracking
 - Prayer checklist
 - Fasting toggle
@@ -183,7 +183,7 @@ users ──N:M──► families (via family_members)
 - Streak cards
 - Calendar view
 - Milestone progress
-
+![Dashboard Screenshot](screenshots/family.png)
 ### Family
 - Family dashboard
 - Member list
